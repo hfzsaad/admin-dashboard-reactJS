@@ -1,5 +1,11 @@
 The Design screenshots of the admin dashboard build in react JS.
 
+![Screen Shot 2022-12-09 at 4 20 02 PM](https://user-images.githubusercontent.com/92290370/206693002-96c431ed-a2aa-4721-9910-02dd2fda4e23.png)
+
+![Screen Shot 2022-12-09 at 4 20 14 PM](https://user-images.githubusercontent.com/92290370/206693008-698e649d-0601-456c-9f31-4666e818f7a5.png)
+
+![Screen Shot 2022-12-09 at 4 20 26 PM](https://user-images.githubusercontent.com/92290370/206693010-d880703f-69c7-4d09-b490-c3d771f9e7a2.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
